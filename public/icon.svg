@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="nurBg" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#065F46" />
+      <stop offset="55%" stop-color="#0B7A4B" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#nurBg)" />
+  <circle cx="420" cy="96" r="76" fill="#FFFFFF" fill-opacity="0.08" />
+  <circle cx="92" cy="424" r="68" fill="#FFFFFF" fill-opacity="0.06" />
+  <!-- Signature Red Accent Stroke -->
+  <path d="M236 126C262 104 306 102 332 118C302 140 268 152 228 156C222 142 226 132 236 126Z" fill="#FB7185" />
+  <!-- Bold Nur Wordmark -->
+  <text
+    x="256"
+    y="302"
+    text-anchor="middle"
+    font-family="'Hind Siliguri', system-ui, -apple-system, sans-serif"
+    font-weight="800"
+    font-size="168"
+    letter-spacing="-4"
+    fill="#FFFFFF"
+  >
+    Nur
+  </text>
+  <!-- Crisp AI Pill -->
+  <rect x="184" y="340" width="144" height="58" rx="29" fill="#FFFFFF" />
+  <text
+    x="256"
+    y="381"
+    text-anchor="middle"
+    font-family="'Hind Siliguri', system-ui, -apple-system, sans-serif"
+    font-weight="800"
+    font-size="34"
+    fill="#0B7A4B"
+  >
+    AI PREP
+  </text>
+</svg>

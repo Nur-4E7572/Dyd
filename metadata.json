@@ -1,0 +1,6 @@
+{
+  "name": "চর্চা AI — যুব উন্নয়ন ভর্তি প্রস্তুতি",
+  "description": "যুব উন্নয়ন অধিদপ্তরের কৃত্রিম বুদ্ধিমত্তা (AI) বেসিক কোর্সের ভর্তি, লিখিত ও ব্যবহারিক পরীক্ষার মোবাইল-ফার্স্ট প্রস্তুতি অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
